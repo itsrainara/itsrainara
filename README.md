@@ -8,7 +8,7 @@
   <img align="center" alt="Rai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rai-pic" height="150" style="border-radius:50px;" src="blob:https://web.whatsapp.com/bdb1fdfe-19c9-4947-b958-a0e3bc9ed931">
+  <img align="right" alt="Rai-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1564695727476989952/T8nGcTau.jpg">
 </div>
   
   ##
